@@ -1,0 +1,5 @@
+working directory --> stagging area --> locsl repo.--> remote repo.
+test-projects    -->    git add    -->  git commit --> git push
+
+
+
