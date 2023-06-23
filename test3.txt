@@ -1,1 +1,2 @@
 hello I am someone and i was created from feature2 branch.
+hello i am the secend line frome master branch.
